@@ -16,9 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Now learning react{" "}
-        </a>{" "}
-      </header>{" "}
+          Learn React from feature
+        </a>
+      </header>
     </div>
   );
 }
